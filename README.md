@@ -1,7 +1,7 @@
 # Lab-Broken-Object-Level-Authorization
 Lab de Broken Object Level Authorization (BOLA)
 
-# Para configurar o lab, utiliza o docker-compose.
+# Para configurar o lab, utilize o docker-compose.
 ```
 #!/bin/bash
 sudo apt install docker.io docker-compose
